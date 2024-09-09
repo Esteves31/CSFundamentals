@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FundamentalsExample/1.0.0": {
+        "dependencies": {
+          "FundamentalsExample.Common": "1.0.0"
+        },
+        "runtime": {
+          "FundamentalsExample.dll": {}
+        }
+      },
+      "FundamentalsExample.Common/1.0.0": {
+        "runtime": {
+          "FundamentalsExample.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FundamentalsExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FundamentalsExample.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
