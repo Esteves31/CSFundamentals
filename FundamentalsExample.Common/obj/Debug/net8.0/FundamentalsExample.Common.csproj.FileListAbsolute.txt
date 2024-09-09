@@ -1,0 +1,11 @@
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/bin/Debug/net8.0/FundamentalsExample.Common.deps.json
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/bin/Debug/net8.0/FundamentalsExample.Common.dll
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/bin/Debug/net8.0/FundamentalsExample.Common.pdb
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/obj/Debug/net8.0/FundamentalsExample.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/obj/Debug/net8.0/FundamentalsExample.Common.AssemblyInfoInputs.cache
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/obj/Debug/net8.0/FundamentalsExample.Common.AssemblyInfo.cs
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/obj/Debug/net8.0/FundamentalsExample.Common.csproj.CoreCompileInputs.cache
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/obj/Debug/net8.0/FundamentalsExample.Common.dll
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/obj/Debug/net8.0/refint/FundamentalsExample.Common.dll
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/obj/Debug/net8.0/FundamentalsExample.Common.pdb
+/home/matheus/Documents/CsProjects/FirstProject/FundamentalsExample.Common/obj/Debug/net8.0/ref/FundamentalsExample.Common.dll
