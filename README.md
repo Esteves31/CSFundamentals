@@ -3,6 +3,7 @@
 CSFundamentals is only to learn more about .NET and C#. In this solution exists two projects
 and the projects has references to each other in the solution SolutionExample.sln. Classes creations,
 projects and solutions concepts, and variables name patterns are some of the studies in the project.
+In this solution I am using .NET 8.0 version.
 
 ### Repositiory description
 - `FundamentalsExample`: contens a project that making references to models in `FundamentalsExample.Common`;
